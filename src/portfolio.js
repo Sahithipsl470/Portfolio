@@ -48,15 +48,8 @@ const socialMediaLinks = [
   {
     name: "Gmail",
     link: "mailto:spabbath@buffalo.edu",
-    fontAwesomeIcon: "fa-google",
+    fontAwesomeIcon: "fa-envelope",
     backgroundColor: "#D14836",
-  },
-  {
-    name: "Instagram",
-    link:
-      "https://www.instagram.com/sahithi__1945/profilecard/?igsh=cWoxbXdwZnl0ZmZi",
-    fontAwesomeIcon: "fa-instagram",
-    backgroundColor: "#E4405F",
   },
 ];
 
