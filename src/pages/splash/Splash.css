@@ -231,8 +231,8 @@
 /* Use media queries to make the square responsive on mobile */
 @media (max-width: 768px) {
   .loader-container {
-    width: 80vw; /* Adjust width for mobile */
-    height: 80vw; /* Adjust height for mobile */
+    width: 100vw; /* Adjust width for mobile */
+    height: 100vw; /* Adjust height for mobile */
     max-width: 200px; /* Maximum size */
     max-height: 200px; /* Maximum size */
   }
@@ -243,8 +243,8 @@
   }
 
   .screen {
-    width: 80%; /* Adjust screen size on mobile */
-    height: 80%; /* Adjust height on mobile */
+    width: 100%; /* Adjust screen size on mobile */
+    height: 100%; /* Adjust height on mobile */
   }
   
   .logo_wrapper {
