@@ -1,3 +1,88 @@
 {
-  "data": []
+  "data": [
+    {
+      "id": "P_kgDO1",
+      "name": "Deep Fake Image Classification",
+      "createdAt": "2024-01-13T04:18:19Z",
+      "url": "https://github.com/App-Dev-123/Deep_Fake_Image_classification/tree/main",
+      "description": "Implemented CNN, RNN, and LSTM models for Deep Fake Image Classification using Python and PyTorch, achieving 98.2% accuracy in detecting tampered images.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "P_kgDO2",
+      "name": "State Property Management Database",
+      "createdAt": "2024-01-13T04:18:19Z",
+      "url": "https://github.com/App-Dev-123/State_Management_Database",
+      "description": "Created a database from scratch by converting CSV data into normalized tables, implementing stored procedures and functions in SQL, and optimizing queries with indexing to reduce costs by 25%.",
+      "isFork": false,
+      "languages": [
+         {
+      "name": "SQL",
+      "iconifyClass": "simple-icons:sql"
+    },
+    {
+      "name": "CSV",
+      "iconifyClass": "vscode-icons:file-type-csv"
+    },
+    {
+      "name": "Microsoft Excel",
+      "iconifyClass": "logos:microsoft-excel"
+    },
+    {
+      "name": "Python",
+      "iconifyClass": "logos-python"
+    },
+    {
+      "name": "PostgreSQL",
+      "iconifyClass": "logos:postgresql"
+    }
+      ]
+    },
+    {
+      "id": "P_kgDO3",
+      "name": "Mental Health Analysis Website",
+      "createdAt": "2023-08-13T04:18:19Z",
+      "url": "https://github.com/App-Dev-123/Mental_health_analysis/tree/master",
+      "description": "Developed a mental health analysis website using Streamlit, integrated data from 8 sources, and used Hadoop and PySpark for data cleaning and analysis, improving data accuracy by 25%.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PySpark",
+          "iconifyClass": "logos-apache-spark"
+        }
+      ]
+    },
+    {
+      "id": "P_kgDO4",
+      "name": "Portfolio Website",
+      "createdAt": "2024-11-09T00:00:00Z",
+      "url": "https://github.com/App-Dev-123/App-Dev-123.github.io",
+      "description": "Built a personal portfolio website to showcase projects and skills. It includes sections for technical projects, resume, and contact information. The site is built with HTML, CSS, and JavaScript, providing an interactive user experience.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    }
+  ]
 }
