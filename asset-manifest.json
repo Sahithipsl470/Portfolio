@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67b3b053.chunk.css",
+    "main.js": "/static/js/main.e719de50.chunk.js",
+    "main.js.map": "/static/js/main.e719de50.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f65c7a44.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f65c7a44.js.map",
+    "static/js/2.e1a2c42e.chunk.js": "/static/js/2.e1a2c42e.chunk.js",
+    "static/js/2.e1a2c42e.chunk.js.map": "/static/js/2.e1a2c42e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.de90c50504f2d2aafc5fdb81d8addb8e.js": "/precache-manifest.de90c50504f2d2aafc5fdb81d8addb8e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.67b3b053.chunk.css.map": "/static/css/main.67b3b053.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/aaveg_logo.jpeg": "/static/media/aaveg_logo.49e5c00d.jpeg",
+    "static/media/aws_logo.png": "/static/media/aws_logo.c158a2e0.png",
+    "static/media/contact_me.jpg": "/static/media/contact_me.3f65a3a3.jpg",
+    "static/media/corey_logo.png": "/static/media/corey_logo.713b2d43.png",
+    "static/media/data_science_image.jpg": "/static/media/data_science_image.bfaf3f0c.jpg",
+    "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.75a7107b.png",
+    "static/media/experience_logo.jpg": "/static/media/experience_logo.ec61a071.jpg",
+    "static/media/all.css": "/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/full_stack_image.jpg": "/static/media/full_stack_image.42233cf7.jpg",
+    "static/media/gcp_logo.png": "/static/media/gcp_logo.0ee7e8c9.png",
+    "static/media/micro_services_image.jpg": "/static/media/micro_services_image.06b1acbd.jpg",
+    "static/media/nit_trichy_logo.png": "/static/media/nit_trichy_logo.2ceefbac.png",
+    "static/media/opening.gif": "/static/media/opening.606dc896.gif",
+    "static/media/pragyan_logo.png": "/static/media/pragyan_logo.7dbc6ffc.png",
+    "static/media/projects_image.svg": "/static/media/projects_image.b8ba9487.svg",
+    "static/media/sahithi_image.jpg": "/static/media/sahithi_image.cf632e67.jpg",
+    "static/media/stanford_logo.png": "/static/media/stanford_logo.2c497738.png",
+    "static/media/ww.png": "/static/media/ww.ec07030e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f65c7a44.js",
+    "static/js/2.e1a2c42e.chunk.js",
+    "static/css/main.67b3b053.chunk.css",
+    "static/js/main.e719de50.chunk.js"
+  ]
+}
