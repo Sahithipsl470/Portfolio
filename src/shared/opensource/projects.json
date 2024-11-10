@@ -9,9 +9,41 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
+      "name": "Python",
+      "iconifyClass": "logos-python"
+    },
+    {
+      "name": "PyTorch",
+      "iconifyClass": "logos:pytorch"
+    },
+    {
+      "name": "TensorFlow",
+      "iconifyClass": "logos:tensorflow"
+    },
+    {
+      "name": "Keras",
+      "iconifyClass": "logos:keras"
+    },
+    {
+      "name": "NumPy",
+      "iconifyClass": "logos:numpy"
+    },
+    {
+      "name": "Machine Learning",
+      "iconifyClass": "logos:machine-learning"
+    },
+    {
+      "name": "Deep Learning",
+      "iconifyClass": "logos:deep-learning"
+    },
+    {
+      "name": "Natural Language Processing",
+      "iconifyClass": "logos:nlp"
+    },
+    {
+      "name": "Large Language Models (LLM)",
+      "iconifyClass": "logos:llm"
+    }
       ]
     },
     {
@@ -53,13 +85,37 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "PySpark",
-          "iconifyClass": "logos-apache-spark"
-        }
+      "name": "Python",
+      "iconifyClass": "logos-python"
+    },
+    {
+      "name": "PySpark",
+      "iconifyClass": "logos-apache-spark"
+    },
+    {
+      "name": "K-Nearest Neighbors (KNN)",
+      "iconifyClass": "logos:knn"
+    },
+    {
+      "name": "Linear Regression",
+      "iconifyClass": "logos:linear-regression"
+    },
+    {
+      "name": "Logistic Regression",
+      "iconifyClass": "logos:logistic-regression"
+    },
+    {
+      "name": "Decision Trees",
+      "iconifyClass": "logos:decision-trees"
+    },
+    {
+      "name": "Random Forest",
+      "iconifyClass": "logos:random-forest"
+    },
+    {
+      "name": "Support Vector Machines (SVM)",
+      "iconifyClass": "logos:svm"
+    }
       ]
     },
     {
@@ -81,7 +137,19 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
-        }
+        },
+        {
+      "name": "React",
+      "iconifyClass": "logos:react"
+    },
+    {
+      "name": "Netlify",
+      "iconifyClass": "logos:netlify"
+    },
+    {
+      "name": "GitHub Pages",
+      "iconifyClass": "logos:github"
+    }
       ]
     }
   ]
