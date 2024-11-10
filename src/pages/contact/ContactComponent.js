@@ -45,15 +45,9 @@ class Contact extends Component {
                   style={{ display: "flex", gap: "10px" }}
                 >
                   <Button
-                    text="See My ML Resume"
+                    text="Resume"
                     newTab={true}
-                    href={resumeLinks.resumeLinkML}
-                    theme={theme}
-                  />
-                  <Button
-                    text="See My SDE Resume"
-                    newTab={true}
-                    href={resumeLinks.resumeLinkSDE}
+                    href={resumeLinks.resumeLink}
                     theme={theme}
                   />
                 </div>
