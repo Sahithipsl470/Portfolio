@@ -22,16 +22,14 @@ const greeting = {
   subTitle:
     "Experienced software developer with 2+ years in full-stack and microservices development, strong programming foundation, leadership skills, and a results-driven approach. Skilled in collaboration, with excellent communication abilities.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1LiHQrK4c_kf7QMQASBJOiorVFeIUOw7s?usp=drive_link",
   portfolio_repository: "",
   githubProfile: "https://github.com/App-Dev-123",
 };
 
 const resumeLinks = {
-  resumeLinkML:
-    "https://drive.google.com/file/d/1p7tfhF2GVHhEwdfPcmeB1o2FVHwgn9qH/view?usp=drive_link",
-  resumeLinkSDE:
-    "https://drive.google.com/file/d/1C4EYhtbThOhvvvKdpKcgtnrunLxHTNEc/view?usp=drive_link",
+  resumeLink:
+    "https://drive.google.com/drive/folders/1LiHQrK4c_kf7QMQASBJOiorVFeIUOw7s?usp=drive_link"
 };
 
 const socialMediaLinks = [
