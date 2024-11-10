@@ -29,9 +29,9 @@ const greeting = {
 
 const resumeLinks = {
   resumeLinkML:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/1p7tfhF2GVHhEwdfPcmeB1o2FVHwgn9qH/view?usp=drive_link",
   resumeLinkSDE:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/1C4EYhtbThOhvvvKdpKcgtnrunLxHTNEc/view?usp=drive_link",
 };
 
 const socialMediaLinks = [
