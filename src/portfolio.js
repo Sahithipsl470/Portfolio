@@ -36,19 +36,19 @@ const socialMediaLinks = [
   {
     name: "Github",
     link: "https://github.com/App-Dev-123",
-    fontAwesomeIcon: "fa-github",
+    fontAwesomeIcon: "fab fa-github",
     backgroundColor: "#181717",
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/sahithi-psl/",
-    fontAwesomeIcon: "fa-linkedin-in",
+    fontAwesomeIcon: "fab fa-linkedin-in",
     backgroundColor: "#0077B5",
   },
   {
     name: "Gmail",
     link: "mailto:spabbath@buffalo.edu",
-    fontAwesomeIcon: "fa-envelope",
+    fontAwesomeIcon: "fas fa-envelope",
     backgroundColor: "#D14836",
   },
 ];
