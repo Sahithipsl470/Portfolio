@@ -256,5 +256,11 @@
     position: relative;
     padding: 10px; /* Padding to prevent overflow on mobile */
   }
+  .logo_wrapper h1, .logo_wrapper p {
+    font-size: 14px;
+  }
+  .loader-container .text {
+    font-size: 12px;
+  }
 }
 
