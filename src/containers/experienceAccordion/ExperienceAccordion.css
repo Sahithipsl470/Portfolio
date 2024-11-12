@@ -1,33 +1,13 @@
-/* ExperienceAccordion.css */
-
 .experience-accord {
   margin: 50px;
 }
 
-/* Style the panel */
 .accord-panel {
   font-family: "Google Sans Regular";
-  padding: 15px;
-  border-radius: 5px;
-  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Mobile adjustments */
 @media (max-width: 768px) {
-  /* Reduce margin on mobile */
   .experience-accord {
     margin: 20px;
-    padding: 10px;
-  }
-
-  /* Ensure proper padding inside the panel */
-  .accord-panel {
-    padding: 10px;
-    font-size: 16px; /* Adjust font size for better readability */
-  }
-
-  /* Consistent spacing for inner content on mobile */
-  .accord-panel .experience-card {
-    margin-bottom: 15px; /* Space between cards */
   }
 }
