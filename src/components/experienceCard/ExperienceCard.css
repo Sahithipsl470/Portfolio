@@ -281,11 +281,13 @@ transition: all 0.3s ease-in-out 0s;
 }
 
 @media (max-width: 768px) {
-  .experience-card{
-      flex-direction:column;
+  .experience-card {
+      flex-direction: column;
       text-align: center;
       width: 90%;
       margin: 0 auto;
+      box-sizing: border-box; /* Ensures padding/border is included in width */
+      overflow: hidden; /* Prevents content from overflowing */
   }
 
   .arrow-left {
@@ -301,46 +303,42 @@ transition: all 0.3s ease-in-out 0s;
   }
 
   .experience-card-logo {
-      width: 100px;
+      width: 80%; /* Adjusts the logo size for smaller screens */
+      max-width: 100px; /* Sets a max width to avoid too large logos */
+      margin: 0 auto; /* Centers the logo */
   }
 
-  .experience-card-heading-left {
-      float: center;
-      margin-left: auto;
-      margin-right: auto;
-  }
-
+  .experience-card-heading-left, 
   .experience-card-heading-right {
-      float: center;
+      float: none; /* Removes floating */
       margin-left: auto;
       margin-right: auto;
   }
 
   .experience-card-title {
-      /* text-align: center; */
+      text-align: center; /* Centers the title on mobile */
   }
 
   .experience-card-company {
-      /* text-align: center; */
+      text-align: center; /* Centers the company name on mobile */
   }
 
   .experience-card-duration {
-      /* margin-top: 2px; */
-      /* text-align: center; */
+      margin-top: 2px;
+      text-align: center; /* Centers the duration on mobile */
   }
 
-  .experience-card-location{
-      /* text-align: left; */
-      /* text-align: center; */
+  .experience-card-location {
+      text-align: center; /* Centers the location on mobile */
   }
 
   .experience-card-header-div {
-      flex-direction: column;
+      flex-direction: column; /* Stacks header elements vertically */
+      align-items: center; /* Centers header content */
   }
 
   .experience-card-description {
-      margin-left: 14px;
-      margin-right: 14px;
-      text-align: justify;
+      margin: 14px;
+      text-align: justify; /* Justifies text for readability */
   }
 }
