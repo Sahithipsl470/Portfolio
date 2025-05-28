@@ -2,7 +2,7 @@
   "private": true,
   "name": "My Portfolio",
   "version": "0.1.0",
-  "homepage": "https://App-Dev-123.github.io",
+  "homepage": "https://Sahithipsl470.github.io",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
